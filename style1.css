@@ -1,0 +1,25 @@
+.title{
+	background-color: red;
+	color:white;
+	}
+
+.tombol{
+	background-color: pink;
+	box-shadow: 5px 5px 1px grey;
+}
+
+.tombol:hover{
+	background-color:lightblue;
+}
+
+option{
+	background-color: skyblue;
+}
+
+form{
+	color:white;
+}
+
+body{
+	background-color: black;
+}
