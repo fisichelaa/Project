@@ -1,0 +1,15 @@
+table{
+	border:2px solid black;
+	font-family: "test";
+}
+
+body{
+	background-color:skyblue;
+	font-family:"test";
+}
+
+@font-face{
+	src: url(fabiolo-light.woff);
+	font-family:test;
+}
+
