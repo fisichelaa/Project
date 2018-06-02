@@ -1,0 +1,33 @@
+table{
+	width:30%;
+	height:40%;
+	border: 1px solid black;
+	background:black;
+	padding:10px;
+	margin : 2px;
+}
+.layar{
+	width: 90%;
+	height:50px;
+	font-size:30px;
+	padding:10px;
+	margin : 2px;
+	
+}
+.tombol{
+	width: 40%;
+	height:40px;
+	font-size:20px;
+	background-color:#fc7bda;
+	padding:10px;
+	margin : 2px;
+}
+
+.tombol:hover{
+	width: 40%;
+	height:40px;
+	font-size:20px;
+	background-color:#ffccf1;
+	padding:10px;
+	margin : 2px;
+}
