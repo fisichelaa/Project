@@ -1,0 +1,17 @@
+1. Predefined variable adalah variabel yang disediakan khusus oleh php dan memiliki sifat global.
+$_SERVER : variabel untuk memanggil informasi server dan client
+$_ENV : variabel untuk memanggil informasi data environment
+$_POST: variabel untuk mengambil data yang dikirim dari form dengan metode "POST" (HTTP POST)
+$_GET : variabel untuk mengambil data yang dikirim dari form denga metode "GET" atau data yang diambil dari Query String (HTTP GET)
+
+2. Method post tidak menampilkan nilai variabel pada URL sedangkan GET menapilkan nilai variabelnya.
+
+get : 
+- dapat dishare
+- dapat dengan mudah di refresh
+- simpel dan data mudah diedit
+- dapat kembali ke halaman sebelumnya dengan mudah
+post :
+- lebih aman karena data yang dikirim tidak terlihat
+- dapat mengirim data dalam jumlah besar
+- Dapat mengirim berbagai jenis data seperti gambar, file, dll, tidak harus teks.
